@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FoodDelivery</string>
+    <!-- Login -->
+    <string name="tvUser">User</string>
+    <string name="tvClave">Password</string>
+    <string name="btLogin">Login</string>
+    <string name="btCreate">Register</string>
+
+
+    <string name="title_activity_principal">MainActivity</string>
+    <string name="title_home">Menu</string>
+    <string name="title_dashboard">Favorites</string>
+    <string name="title_notifications">Contact</string>
+    <string name="tvLogoutMensaje">Are you sure you want to log out?</string>
+    <string name="btLogout">Logout</string>
+
+
+    <string name="tvName">The best food in the world!</string>
+    <string name="tvCalories">Calories:</string>
+    <string name="tvMinutes">Duration:</string>
+    <string name="tvMenu">Menu</string>
+    <string name="btFavorites">Add to favorites</string>
+    <string name="btDeleteFavorites">Delete from favorites</string>
+    <string name="tvMyFavorites">My favorites</string>
+    <string name="tvPrueba">Lorem ipsum dolor sit amet consectetur adipiscing elit ante,
+        tristique ultricies proin feugiat arcu volutpat bibendum porta,
+        dapibus ut cum elementum litora parturient himenaeos. Ridiculus habitasse enim mattis
+        nam metus nunc morbi congue, suscipit sodales facilisi dapibus purus luctus pharetra.</string>
+
+    <string name="tvPhone">Phone number:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="btCall">Call us</string>
+    <string name="btEmail">Send an email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
